@@ -19,7 +19,7 @@ We used a dataset that was found on Kaggle: https://www.kaggle.com/datasets/amit
 
 This clean data has been prepared and utilized for research purposes. Its significance lies in its potential to unravel patterns and predict song popularity prior to its release. This dataset could be used to create various predictive models with machine-learning/deep-learning techniques.
 
-**Note**: The dataset was too large to add to our repo. Please download the .csv file from Kaggle to accompany our code when running.
+**Note**: The dataset was too large to add to our repo. Please download the ``spotify_dataset.csv`` file from Kaggle to accompany our code when running.
 
 ## Breakdown of Tasks
 
